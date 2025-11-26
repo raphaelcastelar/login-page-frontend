@@ -6,6 +6,7 @@ main {
     align-items: center;
     justify-content: center;
     height: 100%;
+    background-color: #d5d6d8;
 
     section {
         height: 100%; 
@@ -24,7 +25,7 @@ main {
 
     .form-section {
         flex-grow: 0.3;
-        padding: 0 35px; 
+        padding: 0 35px;
 
         img {
             margin-bottom: 30px;
